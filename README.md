@@ -1,4 +1,6 @@
-### Hi there 👋
+# Samantha Aster
+## Who is Sam Aster?
+Hello, and welcome to my GitHub profile! I am grateful for your visit! Most of my work is for the Mirus Initiative. Feel free to check them out!
 
 <!--
 **Sam-Aster/Sam-Aster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
